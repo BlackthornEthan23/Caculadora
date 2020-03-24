@@ -1,0 +1,9 @@
+from time import sleep
+
+
+num1 = input("Digite o primeiro número: ")
+num2 = input("Digite o segundo número: ")
+
+def soma():
+  result = num1 + num2
+  print(result)
